@@ -80,10 +80,10 @@ class App extends React.Component<{}, State> {
           />
         </label>
 
-        <label htmlFor="animationDurationId">
+        <label htmlFor="fnimationDurationId">
           animationDuration
           <input
-            id="animationDurationId"
+            id="fnimationDurationId"
             type="number"
             name="animationDuration"
             value={animationDuration}
